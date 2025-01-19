@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # React + Vite
 
 # Online Library System
@@ -29,7 +29,7 @@ An online library system built using React, Redux, and Tailwind CSS. The applica
 
 cd online-library-system
 
-3.Install dependencies using npm or yarn:
+3.Install dependencies using npm 
 
 npm install or yarn install
   
