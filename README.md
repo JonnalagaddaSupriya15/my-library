@@ -58,24 +58,5 @@ Tailwind CSS
 
 
 
----
-
-### Breakdown:
-1. **Project Overview**: A brief description of the project and its features.
-2. **Prerequisites**: Details about the required versions of Node.js and package managers (npm/yarn).
-3. **Installation**: Step-by-step instructions for cloning the repo and installing dependencies.
-4. **Running the Application**: Instructions to start the development server and build the app for production.
-5. **Testing**: Instructions on how to run tests.
-6. **Dependencies**: List of key dependencies in the project.
-7. **License**: Information on the licensing (MIT License in this case).
-
-This README ensures that anyone can set up and run the application easily. You can customize it as needed for your specific project!
-
-
-
-
-=======
-# online-library-system
-## Features: - Browse books by categories (Fiction, Non-Fiction, Sci-Fi, Fantasy) - View details of individual books - Search for books by title or author - Add new books to the library (with form validation) - Responsive design using Tailwind CSS - Uses Redux to manage the book data
->>>>>>> cf01e542f02db980bb6fa5cb788f291ee9b5622a
-github link: 
+-
+github link: https://github.com/JonnalagaddaSupriya15/my-library/tree/main
